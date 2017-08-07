@@ -15,6 +15,7 @@ The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.
 ` Windows: >> activate dlnd `
 
 3. Ensure you have **numpy**, **matplotlib**, **pandas** and **jupyter notebook** installed by doing the folloiwng: 
+
 `conda install numpy matplotlib pandas jupyter notebook`
 
 4. open the notebook server: 
